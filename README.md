@@ -16,6 +16,14 @@ I possess a diverse skill set in various programming languages and frameworks, e
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -24,20 +32,16 @@ I possess a diverse skill set in various programming languages and frameworks, e
 Here are a few projects that showcase my expertise:
 
 #### 📱 Web Development
-- **[Recipe Finder](https://github.com/rashikaver/recipe-finder)**: A full-stack web application built with React and Django, allowing users to search for recipes based on ingredients.
-- **[Portfolio Website](https://github.com/rashikaver/portfolio-website)**: A responsive portfolio website created with HTML, CSS, and JavaScript, featuring modern design principles.
-
+- **[Landing page](https://github.com/rashikaver/code-alpha-landing-page)**
+- **[Background converter](https://github.com/rashikaver/code-alpha-backgrong-converter)**
 #### 🤖 Machine Learning
-- **[Sentiment Analysis](https://github.com/rashikaver/sentiment-analysis)**: A machine learning project for sentiment analysis using TensorFlow, analyzing text data from social media platforms.
-- **[Image Recognition](https://github.com/rashikaver/image-recognition)**: An AI model for image recognition using scikit-learn, capable of identifying objects in images.
-
+- **[Stock Prediction](https://github.com/rashikaver/stock-prediction)**
+- **[Hand written Digit Recognition](https://github.com/rashikaver/numeric)**
 ---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashikaver&show_icons=true&theme=gruvbox&title_color=FFA500&icon_color=FFD700&text_color=FFD700&bg_color=000000)
-
-
 
 ### 🌐 Connect with Me
 
