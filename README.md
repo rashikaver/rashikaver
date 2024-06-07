@@ -32,11 +32,11 @@ I possess a diverse skill set in various programming languages and frameworks, e
 Here are a few projects that showcase my expertise:
 
 #### 📱 Web Development
-- **[Landing page](https://github.com/rashikaver/code-alpha-landing-page)**
-- **[Background converter](https://github.com/rashikaver/code-alpha-backgrong-converter)**
+- **[Landing page](https://github.com/rashikaver/code-alpha-landing-page)**:A visually appealing and responsive landing page built using HTML, CSS, and JavaScript.
+- **[Background converter](https://github.com/rashikaver/code-alpha-backgrong-converter)**:A dynamic web tool allowing users to customize page backgrounds with real-time updates.
 #### 🤖 Machine Learning
-- **[Stock Prediction](https://github.com/rashikaver/stock-prediction)**
-- **[Hand written Digit Recognition](https://github.com/rashikaver/numeric)**
+- **[Stock Prediction](https://github.com/rashikaver/stock-prediction)**:A machine learning model that predicts stock prices using historical data and advanced algorithms.
+- **[Hand written Digit Recognition](https://github.com/rashikaver/numeric)**:A neural network-based project for accurately recognizing and classifying handwritten digits from the MNIST dataset.
 ---
 
 ### 📊 GitHub Stats
