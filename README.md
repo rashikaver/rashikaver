@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rashika Verma!
 
-## 💻 Software Engineer & 🧠 Machine Learning Enthusiast
+## 💻 Web Developer & 🧠 Machine Learning Enthusiast
 
 I'm Rashika Verma, a passionate Software Engineer and Machine Learning enthusiast with a flair for crafting innovative solutions and exploring the depths of artificial intelligence using Python. My journey in tech is driven by a relentless curiosity and a desire to create impactful applications.
 
